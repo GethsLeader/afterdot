@@ -1,0 +1,7 @@
+!.gitignore
+/.idea
+/node_modules
+/coverage
+*.tmp
+*.log
+npm-debug.log*
