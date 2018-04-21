@@ -1,7 +1,7 @@
 What is it?
 ===========
 
-Simple library to turn numbers into human readable format string.
+Simple "library" to turn numbers into human readable format string.
 
 It's still not finished yet (here are only __ru-KZ__ language), but works fine.
 
@@ -19,7 +19,7 @@ Example
 =======
 
 Example can be found into example folder. It's something like a test,
-to show how it's works [link](example/index.html).
+to show how it's works [link](example).
 
 License
 =======
