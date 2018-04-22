@@ -19,7 +19,7 @@ Example
 =======
 
 Example can be found into example folder. It's something like a test,
-to show how it's works [link](example).
+to show how it's works [(link)](example).
 
 License
 =======
